@@ -16,6 +16,10 @@
 ## Project Structure
 ![image](https://github.com/user-attachments/assets/0259756e-22a8-48de-acc2-a241b9e1a2f1)
 
+
+## Database schema
+![ERD_Charging_System](https://github.com/user-attachments/assets/a1480dca-29ca-4708-8903-4c26b1e1e61d)
+
 ## Get Started
 
 ### Install dependencies
