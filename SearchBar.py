@@ -95,7 +95,7 @@ def main(page: ft.Page, container: ft.Column):
                          )
                         
                     result_list.controls.append(ft.Container(
-                        content=ft.Text(f"  تاريخ التسليم:\n {transaction.time}",
+                        content=ft.Text(f"  تاريخ التسليم:\n {transaction.time.strftime('%d/%m/%Y - %I:%M %p')}",
                                         color="Black",
                                         text_align=ft.TextAlign.CENTER),
                         alignment=ft.alignment.center,  # Center alignment
